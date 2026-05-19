@@ -1,19 +1,17 @@
-# CS F363 Compiler Construction — Phase 2
+# CS F363 Compiler Construction
 ## Elixir Language: Parser & Intermediate Code Generation
-### Group G-27
 
 ---
 
 ## Team Members
-| Name              | ID               |
-|-------------------|------------------|
-| Rishab Nagota     | 2022B1A71229H    |
-| Kanav Sooden      | 2022B1A71558H    |
-| Piyush Mahajan    | 2022B1A71231H    |
-| Asmit Mukherjee   | 2022B5A70909H    |
-| Rachit Bansal     | 2022B5A71642H    |
+| Name              |
+|-------------------|
+| Rishab Nagota     |
+| Kanav Sooden      |
+| Piyush Mahajan    |
+| Asmit Mukherjee   | 
+| Rachit Bansal     | 
 
-**Project Group ID: G-27**
 
 ---
 
