@@ -1,4 +1,4 @@
-# CS F363 Compiler Construction
+# Compiler Construction
 ## Elixir Language: Parser & Intermediate Code Generation
 
 ---
