@@ -1,0 +1,11 @@
+# Valid Test Case: Compute factorial-like accumulation
+x = 10
+y = 1
+result = 0
+while x > 0 do
+  result = result + x * y
+  x = x - 1
+end
+if result > 50 do
+  result = result + 5
+end

@@ -1,0 +1,6 @@
+=== Three Address Code Output ===
+x = 10
+Lexical Error: unknown character '@'
+y = 20
+t0 = x < 20
+Syntax Error: syntax error

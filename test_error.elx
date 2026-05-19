@@ -1,0 +1,7 @@
+# Error Test Case: Syntax errors present
+x = 10
+y = @20
+if x < 20
+  x = x + 1
+end
+z = x $ y
